@@ -1,6 +1,6 @@
 # vmsondemand
 # vpotokov@gmail.com
-# Feb 9th 2018
+# Feb 11th 2018
 
 utility scripts
 
